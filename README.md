@@ -24,6 +24,15 @@ The dataset has country-level details such as capital city, region, continent, c
 - Searched text in a column using `str.contains()` (countries with "Republic" in their full name)
 - Created a subset DataFrame of African countries and found the most populated one
 
+## Key Results
+- Most populated country: India (capital: New Delhi)
+- Least populated country: Tuvalu (capital: Funafuti)
+- Second most populated country: China (leader: Xi Jinping)
+- Highest democracy scores: Norway, Iceland and Sweden
+- Total unique regions in the dataset: 22
+- Eastern Europe has 10 countries in the dataset
+- Most populated African country: Nigeria (capital: Abuja)
+
 ## How to Run
 1. Clone this repository
 2. Download the dataset from the Kaggle link above and save it as `Countries.csv` in the same folder
